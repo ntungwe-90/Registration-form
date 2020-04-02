@@ -1,0 +1,101 @@
+body{
+	background-color: lightblue;
+	display: flex;
+	justify-content: center;
+
+}
+
+.main-form {
+	width: 40vw;
+}
+
+#blue_background{
+	background-color: blue;
+	height: 15px;
+	border-radius: 2px;
+}
+#main_head{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+}
+#required{
+	color: red;
+}
+	#*{
+		color: red;
+
+	}
+	#star{
+		color:red;
+	}
+
+#email{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+}
+
+#name{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+}
+#tell{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+}
+#next{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+}
+#location
+{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+
+}
+#school{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+
+}
+#reason{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+
+
+}
+#how{
+	border-radius: 2px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+}
+#star{
+	color: red;
+}
+#star2{
+	color: red;
+}
+
+
+
